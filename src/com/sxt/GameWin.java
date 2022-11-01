@@ -150,6 +150,7 @@ public class GameWin extends JFrame {
         gameWin.launch();
         System.out.println("修改了");
         System.out.println("hello git");
+        System.out.println("hot-fix");
 
     }
 }
