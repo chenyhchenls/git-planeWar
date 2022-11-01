@@ -148,6 +148,7 @@ public class GameWin extends JFrame {
     public static void main(String[] args) {
         GameWin gameWin = new GameWin();
         gameWin.launch();
+        System.out.println("修改了");
 
     }
 }
