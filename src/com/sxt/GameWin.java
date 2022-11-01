@@ -152,7 +152,7 @@ public class GameWin extends JFrame {
         System.out.println("hello git");
         System.out.println("hot-fix");
         System.out.println("hot-fix merge");
-        System.out.println("hot-fix 代码冲突");
+        System.out.println("hot-fix-代码冲突");
 
     }
 }
